@@ -17,3 +17,4 @@ import Fun
 
 value = int (input("Введите число: "))
 print(Fun.Fibonacci_numbers(value))
+
