@@ -1,0 +1,9 @@
+1 Rud Ivan 916-432-34-24 work
+2 Kulikova Elena 916-587-1122 Mobail
+3 Ivanova Olga 985-214-2311 Mobile
+4 Safonov Igor 499-658-2146 Home
+5 Kalinin Mehail 495-758-6633 work
+6 Sidorov Petr 903-478-1349 Mobile
+7 Korotkova Tanya 499-516-1243 Home
+8 Popov Victor 8-966-467-25-78 Mobily
+9 Moisha Rufick 8-906-666-37-28 Work
